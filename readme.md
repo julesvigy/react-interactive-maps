@@ -1,16 +1,35 @@
 # Welcome to react-simple-maps
 
-This is an open source project that aims to provide simple and easy to use maps for React. The Map features this projects aims to implement are simple and user friendly.
+This is an open source project that aims to provide simple and easy to use maps for React.
 
-<img src="./images/usa_map.png" alt="MarineGEO circle logo"/>
+<img src="./images/usa_map.png" alt="Map of the USA"/>
 
-## **mvp**:
-- heat map
-- hover tooltip
+We plan to add more features in the future. In the meantime if you are interested in contributing to this project, please feel free to fork the repository and make a pull request. We are looking forward to your contribution. There will be a lot more countries added to the project in the future.
 
-## **v2**:
-- coordinate system (lat/long) for adding points
+# For developers
 
-We plan to add more features in the future. In the meantime if you are interested in contributing to this project, please feel free to fork the repository and make a pull request. We are looking forward to your contribution. There will be a lot more countries added to the project.
+Each project in the packages folder is an npm package.
 
-I would like to recognize and thank [simple maps](https://simplemaps.com/resources/svg-maps) for the open source SVG maps. These are the maps this project uses.
+How to run a project:
+
+```
+cd packages/<project>
+```
+
+install:
+
+    ```
+    npm i
+    ```
+
+start:
+
+    ```
+    npm start
+    ```
+
+The project will be served on port 3000. Each project has a demo folder which can be used to see how the project works.
+
+### Credit
+
+I would like to thank [simple maps](https://simplemaps.com/resources/svg-maps) for the open source SVG maps.
