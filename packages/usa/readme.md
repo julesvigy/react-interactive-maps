@@ -39,7 +39,7 @@ export default App;
 
 ### Result
 
-<img src="./images/map_demo.png" alt="Map of the USA"/>
+![result map](https://github.com/julesvigy/react-simple-maps/blob/master/packages/usa/images/map_demo.png?raw=true)
 
 ### Props
 
