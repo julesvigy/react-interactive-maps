@@ -43,9 +43,9 @@ export default App;
 
 ### Props
 
-Props can be passed in to specify the color of the state and the size of the map. Every state is a key in the object. Every state in the object should be abreviated and lowercase. The props name and value should be named `value`.
+Props can be passed in to specify the color of the state and the size of the map. Every state is a key in the object. Every state in the object should be abreviated and lowercase. The Props object name and value should be named `values`.
 
-example:
+example object:
 
 ```
 {
