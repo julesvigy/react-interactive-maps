@@ -25,7 +25,7 @@ install:
 start:
 
     ```
-    npm start
+    npm run start
     ```
 
 The project will be served on port 3000. Each project has a demo folder which can be used to see how the project works.
